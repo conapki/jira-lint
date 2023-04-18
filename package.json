@@ -1,6 +1,6 @@
 {
   "name": "jira-lint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add JIRA issue details to your GitHub pull request",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cleartax/jira-lint"
+    "url": "git+https://github.com/waterscorporation/wcc-github-actions.git"
   },
   "engines": {
     "node": ">= 13",
